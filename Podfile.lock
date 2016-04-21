@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (3.3.1)
+  - MisterFusion (1.2.0)
+  - RxCocoa (2.3.1):
+    - RxSwift (~> 2.3.1)
+  - RxSwift (2.3.1)
+  - SWXMLHash (2.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - MisterFusion
+  - RxCocoa
+  - RxSwift
+  - SWXMLHash
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  MisterFusion: 0c6cf64452f576d463a9097522ed281208443339
+  RxCocoa: a2baaf3462b989559a51dce59d78fbebb8fe0afa
+  RxSwift: 829b2843e9eddc77a02cb3f5117f0d55f8f646f1
+  SWXMLHash: cf2a62b04514211b238b39b3aa348ba4746523af
+
+COCOAPODS: 0.39.0
